@@ -8,7 +8,7 @@
 - `select * from (nome-tabela)` = acessa a tabela dentro do nosso banco de dados
 
 
-# Read Me First
+# Read Me First Ajuste com Vim
 The following was discovered as part of building this project:
 
 * The original package name 'br.com.antonio.api-rest' is invalid and this project uses 'br.com.antonio.apirest' instead.
